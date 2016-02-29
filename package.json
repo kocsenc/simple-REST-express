@@ -2,6 +2,7 @@
   "name": "webrest",
   "version": "1.0.0",
   "description": "Sample REST API ",
+  "repository": "https://github.com/kocsenc/simple-REST-express",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.15.0",
@@ -12,6 +13,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Kocsen Chung",
   "license": "ISC"
 }
